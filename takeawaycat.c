@@ -1,3 +1,5 @@
+//Mathew Wahome SCT221-0392/2023
+//Kagondu Pelin James SCT221-0253/2023
 #include <stdio.h>
 #include <stdlib.h>
 struct Node {
